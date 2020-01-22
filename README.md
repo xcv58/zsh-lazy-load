@@ -33,7 +33,7 @@ lazy_load load_func command1 command2 command3 ...
 A 4 lines example for lazy load nvm: https://github.com/xcv58/prezto-1/pull/2/files
 
 
-## How
+## How it works
 
 The lazy_load() will:
 
